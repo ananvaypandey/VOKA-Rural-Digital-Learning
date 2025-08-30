@@ -5,6 +5,8 @@ A Next-Gen Rural Digital Learning Platform designed for the hackathon problem st
 
 This project focuses on bridging the digital divide in rural areas by combining Adaptive Edge AI for personalized learning and Community Simulation for collaborative education. It supports children, elderly, and differently-abled learners, ensuring inclusivity and accessibility even in low-connectivity regions.
 
+https://github.com/user-attachments/assets/fa6d9f74-f2d3-4b85-8534-fbe9b945667a
+
 📝 Problem Statement
 
 Rural areas often face challenges such as limited connectivity, lack of personalized learning tools, and low access to inclusive education. Traditional e-learning platforms fail to adapt to these constraints.
@@ -48,11 +50,7 @@ Convai API (for AI conversations, with future scope for custom LLM)
 ```
 👥 Characters
 
-Advit – 12 y/o boy, helps rural children learn inclu
-
-https://github.com/user-attachments/assets/fa6d9f74-f2d3-4b85-8534-fbe9b945667a
-
-sively
+Advit – 12 y/o boy, helps rural children learn inclusively
 
 Manya – Empathetic girl, focused on accessibility in education
 
