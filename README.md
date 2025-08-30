@@ -40,12 +40,12 @@ IoT devices (ESP8266, MPU6050) for interactive features
 
 Convai API (for conversations, with future scope for custom LLM)
 
-📂 Repository Structure
+```📂 Repository Structure
 "/Overview of the Whole Concept.pdf   → Documentation, roadmap, and learning concept  
 /Product details.pdf                 → One-pager with project details  
 /about.docx                          → Brief info with visuals and explanation  
 /product.mp4                         → Demo video of the platform"
-
+```
 👥 Characters
 
 Advit – 12 y/o boy, helps rural children learn inclusively
