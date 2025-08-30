@@ -1,6 +1,6 @@
 <p align="center">
   <video width="600" controls>
-    <source src="https://github.com/user-attachments/assets/3d9e59c9-b4b0-4ba5-bae4-08f7a7efea2b" type="video/mp4">
+    <source src="https://github.com/ananvaypandey/VOKA-Rural-Digital-Learning/assets/product.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
