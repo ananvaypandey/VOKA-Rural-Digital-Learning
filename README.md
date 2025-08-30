@@ -1,4 +1,4 @@
-Rural Digital Learning Platform
+ Rural Digital Learning Platform
 
 A Next-Gen Rural Digital Learning Platform designed for the hackathon problem statement:
 "Next-Gen Rural Digital Learning Platform with Adaptive Edge AI and Community Simulation & Learning."
@@ -74,5 +74,5 @@ Prakriti – 28 y/o social worker, fosters rural empowerment
 
 📜 License
 
-==This project is licensed under the MIT License. See LICENSE==
+**This project is licensed under the MIT License. See LICENSE**
 .
