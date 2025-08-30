@@ -1,11 +1,13 @@
- Rural Digital Learning Platform
+https://github.com/user-attachments/assets/3d9e59c9-b4b0-4ba5-bae4-08f7a7efea2b
+
+Rural Digital Learning Platform
 
 A Next-Gen Rural Digital Learning Platform designed for the hackathon problem statement:
-"Next-Gen Rural Digital Learning Platform with Adaptive Edge AI and Community Simulation & Learning."
+"Next-Gen Rural Digital Le
+
+arning Platform with Adaptive Edge AI and Community Simulation & Learning."
 
 This project focuses on bridging the digital divide in rural areas by combining Adaptive Edge AI for personalized learning and Community Simulation for collaborative education. It supports children, elderly, and differently-abled learners, ensuring inclusivity and accessibility even in low-connectivity regions.
-
-https://github.com/user-attachments/assets/fa6d9f74-f2d3-4b85-8534-fbe9b945667a
 
 📝 Problem Statement
 
