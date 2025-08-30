@@ -48,7 +48,11 @@ Convai API (for AI conversations, with future scope for custom LLM)
 ```
 👥 Characters
 
-Advit – 12 y/o boy, helps rural children learn inclusively
+Advit – 12 y/o boy, helps rural children learn inclu
+
+https://github.com/user-attachments/assets/fa6d9f74-f2d3-4b85-8534-fbe9b945667a
+
+sively
 
 Manya – Empathetic girl, focused on accessibility in education
 
