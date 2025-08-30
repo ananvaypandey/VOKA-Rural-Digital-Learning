@@ -38,7 +38,7 @@ Raspberry Pi OS customization (standalone rural learning nodes)
 
 IoT devices (ESP8266, MPU6050) for interactive features
 
-Convai API (for conversations, with future scope for custom LLM)
+Convai API (for AI conversations, with future scope for custom LLM)
 
 ```📂 Repository Structure
 "/Overview of the Whole Concept.pdf   → Documentation, roadmap, and learning concept  
@@ -74,5 +74,5 @@ Prakriti – 28 y/o social worker, fosters rural empowerment
 
 📜 License
 
-This project is licensed under the MIT License. See LICENSE
+==This project is licensed under the MIT License. See LICENSE==
 .
