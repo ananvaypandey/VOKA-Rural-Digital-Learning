@@ -42,7 +42,6 @@ Raspberry Pi OS customization (standalone rural learning nodes)
 
 IoT devices (ESP8266, MPU6050) for interactive features
 
-Convai API (for AI conversations, with future scope for custom LLM)
 
 ```📂 Repository Structure
 "/Overview of the Whole Concept.pdf   → Documentation, roadmap, and learning concept  
