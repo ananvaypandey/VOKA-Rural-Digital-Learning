@@ -1,46 +1,38 @@
 https://github.com/user-attachments/assets/3d9e59c9-b4b0-4ba5-bae4-08f7a7efea2b
 
-Rural Digital Learning Platform
+VOKA – by VOIKES
 
-A Next-Gen Rural Digital Learning Platform designed for the hackathon problem statement:
-"Next-Gen Rural Digital Le
+VOKA is an AI-powered companion project designed to support children, elderly, and differently-abled people through Metahuman characters, AI assistants, and custom hardware integration.
 
-arning Platform with Adaptive Edge AI and Community Simulation & Learning."
-
-This project focuses on bridging the digital divide in rural areas by combining Adaptive Edge AI for personalized learning and Community Simulation for collaborative education. It supports children, elderly, and differently-abled learners, ensuring inclusivity and accessibility even in low-connectivity regions.
-
-📝 Problem Statement
-
-Rural areas often face challenges such as limited connectivity, lack of personalized learning tools, and low access to inclusive education. Traditional e-learning platforms fail to adapt to these constraints.
-
-Objective:
-To design a scalable, offline-first digital learning platform that leverages Adaptive Edge AI and Community Simulation & Learning to deliver personalized, collaborative, and inclusive education experiences.
+It provides conversational support, emotional assistance, and safety features, making it an inclusive solution for all age groups.
 
 🚀 Features
 
-🤖 Adaptive Edge AI for real-time personalized learning
+🎙 Voice & text-based conversations with natural interaction
 
-👥 Community Simulation to promote collaborative and peer-driven education
+🧑‍🤝‍🧑 Metahuman characters (Advit, Manya, Umesh, Prabhat, Prakriti) for realistic engagement
 
-🎙 Voice and text-based interactions for accessibility in local languages
+🎮 Unreal Engine 5 for immersive character interactions
 
-🌍 Inclusive platform optimized for rural and low-connectivity environments
+📱 Custom Companion Device / Raspberry Pi integration for standalone usage
 
-🖥 Edge device integration (Raspberry Pi, ESP8266) for offline-first usage
+🎨 Blender & design assets for character and environment design
 
-🎮 Unreal Engine environments for immersive, simulation-based learning
+⚡ IoT-powered safety monitoring (fall detection & emergency alerts)
 
 🛠 Tech Stack
 
-Edge AI Models (lightweight ML/NLP for adaptive learning)
+Unreal Engine 5 (Metahuman & environment)
 
-Unreal Engine 5 (simulation & immersive learning environments)
+Python (AI logic, safety & interaction modules)
 
-Python (AI integration, edge computing)
+Blender / Metahuman (character creation)
 
-Raspberry Pi OS customization (standalone rural learning nodes)
+ESP8266 + MPU6050 (fall detection & IoT integration)
 
-IoT devices (ESP8266, MPU6050) for interactive features
+Twilio / IFTTT (SMS alerts for emergencies)
+
+Raspberry Pi OS customization (for device portability)
 
 
 ```📂 Repository Structure
@@ -49,6 +41,7 @@ IoT devices (ESP8266, MPU6050) for interactive features
 /about.docx                          → Brief info with visuals and explanation  
 /product.mp4                         → Demo video of the platform"
 ```
+
 👥 Characters
 
 Advit – 12 y/o boy, helps rural children learn inclusively
@@ -62,20 +55,20 @@ Prabhat – Curious boy, drives innovation and creativity in education
 Prakriti – 28 y/o social worker, fosters rural empowerment
 
 📌 Roadmap
+📌 Roadmap
 
- Develop Adaptive Edge AI models for personalized rural learning
+ Expand conversational & emotional support modules
 
- Build Community Simulation environments in Unreal Engine
+ Add advanced Metahuman animations for realism
 
- Integrate Raspberry Pi/ESP8266 for offline-first deployment
+ Develop Raspberry Pi OS image for portability
 
- Add multi-language and voice-based local support
+ Integrate IoT safety features (fall detection, alerts)
 
- Expand dialogue/interaction logic for education scenarios
-
- Conduct pilot testing in rural communities
-
+ Future: Build custom LLM for enhanced accessibility
+ 
 📜 License
 
 **This project is licensed under the MIT License. See LICENSE**
-.
+
+✨ VOKA by VOIKES – An Inclusive AI Companion for Differently-Abled People Across All Ages
