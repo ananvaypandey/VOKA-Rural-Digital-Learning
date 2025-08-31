@@ -69,6 +69,7 @@ Prakriti – 28 y/o social worker, fosters rural empowerment
  
 📜 License
 
-**This project is licensed under the MIT License. See LICENSE**
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE).
+
 
 ✨ VOKA by VOIKES – An Inclusive AI Companion for Differently-Abled People Across All Ages
